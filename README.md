@@ -10,8 +10,13 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0027-remove-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
