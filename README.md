@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
