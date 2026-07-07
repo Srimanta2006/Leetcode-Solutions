@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
