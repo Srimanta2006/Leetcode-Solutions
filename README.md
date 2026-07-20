@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
