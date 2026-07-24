@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -52,4 +53,9 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
