@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [3536-maximum-product-of-two-digits](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [3536-maximum-product-of-two-digits](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
