@@ -24,6 +24,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
