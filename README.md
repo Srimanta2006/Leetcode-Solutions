@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
