@@ -83,4 +83,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Srimanta2006/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
